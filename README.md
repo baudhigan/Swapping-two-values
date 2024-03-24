@@ -18,7 +18,12 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+x = input()
+y = input()
+temp = x
+x = y
+y = temp
+print("Swapped values are:",x,y)
 
 
 ## RESULT:
