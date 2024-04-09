@@ -31,6 +31,9 @@ y = temp
 print("Swapped values are:",x,y)
 */
 ```
+## OUTPUT:
+![image](https://github.com/baudhigan/Swapping-two-values/assets/151921158/2525e049-ac38-414c-a06d-151c8702e422)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
