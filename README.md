@@ -21,7 +21,7 @@ End the program
 ```
 /*
 Program to find the distance between two points.
-Developed by: Baudhigan D
+Developed by: BAUDHIGAN D
 RegisterNumber: 212223230028
 x = input()
 y = input()
